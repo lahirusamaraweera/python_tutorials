@@ -25,5 +25,5 @@ def sortUsingWhile(list1):
     return list1
 
 list_sample  =  [ 26, 25, 14, 55, 1, 2, 5 ]
-print(sortUsingFor(list_sample, False))
+print(sortUsingFor(list_sample, False)) 
 print(sortUsingWhile(list_sample))
