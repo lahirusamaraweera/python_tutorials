@@ -1,0 +1,16 @@
+Kanishka 80 78 98 90
+Ridmika 78 89 88 99 
+
+
+
+Kanishka - total, Avg
+
+
+
+
+
+
+list = [21,22,23,4,22,223,224,22]
+sum = 0
+for x in range(3, len(list)-1):
+    sum += list[x]
