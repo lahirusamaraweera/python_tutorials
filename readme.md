@@ -2,7 +2,7 @@
 
 ## 1. Variables and datatypes
 
-Numeric 
+Integers 
 
 ```python 
 1,3
